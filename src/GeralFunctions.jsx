@@ -4,7 +4,7 @@ export const formatToCurrency = (item) =>{
 }
 
 // API
-export const api = 'https://my-json-server.typicode.com/roberiof/spicers'
+export const api = 'https://my-json-server.typicode.com/roberiof/spicers/products'
 export const getProducts = async() =>{
   const resp = await fetch( api ).then(data => data.json())
   return resp

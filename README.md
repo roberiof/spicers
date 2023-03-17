@@ -27,6 +27,7 @@ Besides that, obviously the project is 100% adaptable for mobile devices and str
 * **[ React JS ](https://reactjs.org/docs/getting-started.html)**
 * **[ React Router ](https://reactrouter.com/en/main/components/route)**
 * **[ Style Components ](https://styled-components.com/)**
+* **[ JSON SERVER ](https://www.npmjs.com/package/json-server)**
 
 
 ## 📝 Main learnings
@@ -40,5 +41,6 @@ Besides that, obviously the project is 100% adaptable for mobile devices and str
 * Make a light theme 
 * Add more functionalities for product card
 * Create administration features for the owner of the site (add more products, see shops ...)
+* Create 404 page 
 
 
