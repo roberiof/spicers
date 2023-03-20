@@ -2,11 +2,11 @@
 
 <br>
 
-[Untitled_ Feb 20, 2023 1_44 PM.webm](https://user-images.githubusercontent.com/107323497/220162611-9cb9a9e7-a746-4431-8fef-fcad13b7fc18.webm)
+[Untitled_ Mar 20, 2023 1_46 PM.webm](https://user-images.githubusercontent.com/107323497/226411587-a1149d70-9c11-4ba8-82ac-9a389715219c.webm)
 
 <br>
 
-> Use the project yourself: https://movies-lib-chi.vercel.app/
+> Use the project yourself: Clone de repo and use npm start to open a JSON-server and vite.
 
 <br>
 
